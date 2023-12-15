@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9551f310ab8a743d",
+        "id": "906e30d2e9346554",
         "type": "tabs",
         "children": [
           {
-            "id": "1509d0d5cec7a369",
+            "id": "c9732442018d1e39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Certification/Armazenamento/S3/Index.md",
-                "mode": "source",
-                "source": false
+                "file": "Map Mental/Inicio.canvas",
+                "viewState": {
+                  "x": 353.341026384754,
+                  "y": 2006.9773326639615,
+                  "zoom": -0.1992419492948659
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certification/Armazenamento/S3/Index.md",
+                "file": "Map Mental/Inicio.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certification/Armazenamento/S3/Index.md",
+                "file": "Map Mental/Inicio.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certification/Armazenamento/S3/Index.md"
+                "file": "Map Mental/Inicio.canvas"
               }
             }
           }
@@ -146,22 +149,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1509d0d5cec7a369",
+  "active": "c9732442018d1e39",
   "lastOpenFiles": [
+    "AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
+    "Map Mental/Inicio.canvas",
+    "Untitled.md",
+    "Map Mental/Untitled.md",
+    "Map Mental",
+    "README.md",
+    "Certification/Armazenamento/S3/Index.md",
     "Certification/Armazenamento/S3 Replication/Index.md",
     "Certification/Armazenamento/S3 Batch Operations/Index.md",
-    "Certification/Armazenamento/S3/Index.md",
     "Certification/Armazenamento/S3 Replication",
     "Certification/Armazenamento/S3 Batch Operations",
     "Scientia/Template.md",
     "Scientia/S3",
     "Scientia",
     "Z-assets",
-    "README.md",
     "Certification/Armazenamento/S3",
     "Certification/Armazenamento",
-    "Certification/Serveless",
-    "Certification/Segurança Identidade Conformidade",
-    "Certification/Redes"
+    "Certification/Serveless"
   ]
 }
