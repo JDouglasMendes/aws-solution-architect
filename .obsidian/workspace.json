@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 275.5
   },
   "right": {
     "id": "6d07cba5ae415b2d",
@@ -148,16 +148,20 @@
   },
   "active": "1509d0d5cec7a369",
   "lastOpenFiles": [
+    "Certification/Armazenamento/S3 Replication/Index.md",
+    "Certification/Armazenamento/S3 Batch Operations/Index.md",
     "Certification/Armazenamento/S3/Index.md",
+    "Certification/Armazenamento/S3 Replication",
+    "Certification/Armazenamento/S3 Batch Operations",
+    "Scientia/Template.md",
+    "Scientia/S3",
+    "Scientia",
+    "Z-assets",
+    "README.md",
     "Certification/Armazenamento/S3",
     "Certification/Armazenamento",
     "Certification/Serveless",
     "Certification/Segurança Identidade Conformidade",
-    "Certification/Redes",
-    "Certification/Transferência de Dados",
-    "Certification/Governança",
-    "Certification/Web Mobile",
-    "Certification/Banco de Dados",
-    "Certification/Containers"
+    "Certification/Redes"
   ]
 }
